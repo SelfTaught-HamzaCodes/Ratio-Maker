@@ -4,14 +4,11 @@
 Ratio-Maker is a versatile software tool designed to simplify working with data containing ratios. Whether you're dealing with packing lists, inventory management, or any scenario involving ratio-based calculations, Ratio-Maker can streamline your tasks. This user-friendly software provides a step-by-step guide to extract, manipulate, calculate, and export data efficiently. It supports both XLSX and XLS file formats. We appreciate your feedback as we continue to improve and expand the capabilities of this software.
 <br></br>
 ## Table of Contents
-
-
 - [Getting Started](#getting-started).
   - [System Requirements](#system-requirements).
   - [Installation](#installation).
 - [Features](#features).
 - [Using Ratio-Maker](#using-ratio-maker).
-- [Getting Started](#getting-started).
   - [Step 1: Opening an Excel File](#step-1-opening-an-excel-file).
   - [Step 2: Identifying Columns](#step-2-identifying-columns).
   - [Step 3: Column Manipulation](#step-3-column-manipulation).
@@ -27,10 +24,10 @@ Ratio-Maker is a versatile software tool designed to simplify working with data 
 
 ### System Requirements
 
-Before installing Ratio-Maker, ensure your system meets the following requirements:
+Before starting Ratio-Maker, ensure your system meets the following requirements:
 
 - **Operating System**: Windows 8 or later
-- **Excel Version**: Microsoft Excel 2010 or later
+- **Excel Format**: XLS and XLSX.
 - **Memory**: 2 GB RAM or higher
 - **Processor**: 1 GHz processor or faster
 - **Hard Disk**: 90 MB of free disk space
@@ -39,10 +36,13 @@ Before installing Ratio-Maker, ensure your system meets the following requiremen
 
 Follow these steps to install Ratio-Maker on your Windows system:
 
-#### Step 1: Download
+#### Download
 
-Download the Ratio-Maker installation package from [Link to Download Page].
+**Download the Ratio-Maker application from [Link to Download Page]**.
 
+*⚠ Please note that the 'Ratio-Maker (Console Version)' application includes a console interface for reporting errors. In case of any issues or unexpected behavior, you can use the provided application executable (exe) to capture error messages and report them for assistance.*
+- Download the Ratio-Maker (Console Version) from [Link to Download Page].
+<br></br>
 ## Features
 
 - **Ratio Extraction**: Easily extract single or ranges of values from your data.
@@ -51,7 +51,8 @@ Download the Ratio-Maker installation package from [Link to Download Page].
 - **Multiple Item Handling**: Manage multiple items within your dataset.
 - **Export Options**: Copy and paste results into Excel or other applications.
 - **User-Friendly Interface**: Designed to be intuitive for users of all levels.
-
+<br></br>
+## Using Ratio-Maker
 
 ### Step 1: Opening an Excel File
 
@@ -81,9 +82,10 @@ Once done, press "Extract Column Names."
 
 - Above Separator, display a list of all column names extracted from your packing list so you can see if the names are correct or not.
 
-- Below Separator, an optional tool: In case your SIZE or any value is combined together, you can cross the "Segregate Box," specify the column and the delimiter (thing that separates those values), and finally press "Segregate Columns" to make additional columns. Currently, it only works for SIZE (Thickness * Width) in V 1.0.
+- Below Separator, an optional tool: In case your SIZE or any value is combined together, you can cross the "Segregate Box," specify the column and the delimiter (thing that separates those values), and finally press "Segregate Columns" to make additional columns.
+- *Currently, it only works for SIZE (Thickness * Width) in V 1.0*.
 
-7. and 8. New Columns Added - Status shows results of Segregation.
+New Columns Added - Status shows results of Segregation.
 
 ## Calculating Ratios
 
