@@ -2,6 +2,10 @@
 
 ## Introduction
 Ratio-Maker is a versatile software tool designed to simplify working with data containing ratios. Whether you're dealing with packing lists, inventory management, or any scenario involving ratio-based calculations, Ratio-Maker can streamline your tasks. This user-friendly software provides a step-by-step guide to extract, manipulate, calculate, and export data efficiently. It supports both XLSX and XLS file formats. We appreciate your feedback as we continue to improve and expand the capabilities of this software.
+
+![image](https://github.com/SelfTaught-HamzaCodes/Ratio-Maker/assets/123310424/72549e34-0d5d-40d3-bf29-28ba806bb726)
+
+⚠ This software has been developed using **Python** and **Tkinter**. We have a plan in place to enhance and modernize it by leveraging **Flet** (Modern Front-End Framework in Python) and **AI** technologies. Stay tuned for exciting updates and improvements.
 <br></br>
 ## Table of Contents
 - [Getting Started](#getting-started).
@@ -26,11 +30,11 @@ Ratio-Maker is a versatile software tool designed to simplify working with data 
 
 Before starting Ratio-Maker, ensure your system meets the following requirements:
 
-- **Operating System**: Windows 8 or later
+- **Operating System**: Windows 8 or later.
 - **Excel Format**: XLS and XLSX.
-- **Memory**: 2 GB RAM or higher
-- **Processor**: 1 GHz processor or faster
-- **Hard Disk**: 90 MB of free disk space
+- **Memory**: 2 GB RAM or higher.
+- **Processor**: 1 GHz processor or faster.
+- **Hard Disk**: 35 MB of free disk space.
 
 ### Installation
 
@@ -38,10 +42,12 @@ Follow these steps to install Ratio-Maker on your Windows system:
 
 #### Download
 
-**Download the Ratio-Maker application from [Link to Download Page]**.
+- **Download the Ratio-Maker application from [**Google Drive**](https://drive.google.com/file/d/1Ph6b1wCiY_QjUhW5ZZPeBnHos6BP1jDN/view?usp=sharing)**.
 
-*⚠ Please note that the 'Ratio-Maker (Console Version)' application includes a console interface for reporting errors. In case of any issues or unexpected behavior, you can use the provided application executable (exe) to capture error messages and report them for assistance.*
-- Download the Ratio-Maker (Console Version) from [Link to Download Page].
+    - ⚠ Extract the compressed file in the folder of your choice, and use the exe to run the application.
+    ***
+- ⚠ Please note that the 'Ratio-Maker (Console Version)' application includes a console interface for reporting errors. In case of any issues or unexpected behavior, you can use the provided application executable (exe) to capture error messages and report them for assistance.
+  - Download the Ratio-Maker (Console Version) from [**Google Drive**](https://drive.google.com/file/d/1UrGv5xqjaceq_-IpBvScN8W8lZJ3s53Y/view?usp=sharing).
 <br></br>
 ## Features
 
@@ -53,7 +59,7 @@ Follow these steps to install Ratio-Maker on your Windows system:
 - **User-Friendly Interface**: Designed to be intuitive for users of all levels.
 <br></br>
 ## Using Ratio-Maker
-
+⚠ A **detailed overview** with screenshots can be seen using this PDF: [**More on Ratio Maker**](https://github.com/SelfTaught-HamzaCodes/Ratio-Maker/blob/main/More%20on%20Ratio-Maker..pdf).
 ### Step 1: Opening an Excel File
 
 - Click "Open Microsoft Excel File" to open the last visited directory.
@@ -122,6 +128,6 @@ All selections from Step 5 and Step 6 will show in this text box. "Clear Text" c
 
 ## Feedback and Support
 
-That’s all for now. If you have any other questions, feedback, or need support, please feel free to reach out to Muhammad Hamza Saeed at [Your Email Address].
+That’s all for now. If you have any other questions, feedback, or need support, please feel free to reach out at GitHub.
 
 Thanks again for using Ratio-Maker.
