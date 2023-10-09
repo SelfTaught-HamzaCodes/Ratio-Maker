@@ -34,7 +34,7 @@ Before starting Ratio-Maker, ensure your system meets the following requirements
 - **Excel Format**: XLS and XLSX.
 - **Memory**: 2 GB RAM or higher.
 - **Processor**: 1 GHz processor or faster.
-- **Hard Disk**: 35 MB of free disk space.
+- **Hard Disk**: 90 MB of free disk space.
 
 ### Installation
 
@@ -59,7 +59,7 @@ Follow these steps to install Ratio-Maker on your Windows system:
 - **User-Friendly Interface**: Designed to be intuitive for users of all levels.
 <br></br>
 ## Using Ratio-Maker
-⚠ A **detailed overview** with screenshots can be seen using this PDF: [**More on Ratio Maker**](https://github.com/SelfTaught-HamzaCodes/Ratio-Maker/blob/main/More%20on%20Ratio-Maker..pdf).
+⚠ A **detailed overview** with screenshots can be seen using this PDF: [**More on Ratio Maker**](https://github.com/SelfTaught-HamzaCodes/Ratio-Maker/blob/main/More%20on%20Ratio-Maker.pdf).
 ### Step 1: Opening an Excel File
 
 - Click "Open Microsoft Excel File" to open the last visited directory.
