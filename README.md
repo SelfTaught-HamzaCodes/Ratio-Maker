@@ -1,5 +1,5 @@
 # Ratio-Maker
-
+Created on **December, 2022**.
 ## Introduction
 Ratio-Maker is a versatile software tool designed to simplify working with data containing ratios. Whether you're dealing with packing lists, inventory management, or any scenario involving ratio-based calculations, Ratio-Maker can streamline your tasks. This user-friendly software provides a step-by-step guide to extract, manipulate, calculate, and export data efficiently. It supports both XLSX and XLS file formats. We appreciate your feedback as we continue to improve and expand the capabilities of this software.
 
